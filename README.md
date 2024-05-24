@@ -48,3 +48,10 @@ By converting the problem into a graph problem, we can efficiently use well-esta
    ```bash
    git clone https://github.com/yourusername/flight-navigation-optimization.git
    cd flight-navigation-optimization
+   Install the required dependencies by running npm install in the project directory of .
+
+Configure the database connection and other settings in the configuration files.
+
+Start the development server using npm start.
+
+Access the platform through the provided URL or open it locally on your web browser.

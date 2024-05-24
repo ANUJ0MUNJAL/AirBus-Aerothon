@@ -22,6 +22,7 @@ By converting the problem into a graph problem, we can efficiently use well-esta
 - **Database**: SQL/Firebase for storing API call results to reduce costs.
 - **Backend**: Python for implementing the risk calculation algorithm.
 - **APIs**: Weather API, Plane data API.
+- **Frontend**: ReactJs
 
 ## Assumptions and Constraints
 - Planes will not deviate more than 20% from the optimal route.
